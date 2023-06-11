@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1675621101 source:c:\users\r.l.p\desktop\new\careem\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+	<fstream>
+	<stdlib.h>
+
